@@ -19,7 +19,7 @@ This repository houses the codebase for our proprietary trading algorithms, clie
 The repository is organized to reflect the modular structure of our Next.js Web Application, Web3.0 Marketplace, Mobile Applications, and our proprietary Cryptocurrency and Fiat Currency trading algorithms. Key components include:
 
 - `/components`: Houses reusable React components for the application's UI.
-- `/pages`: Contains the individual pages that make up the web application.
+- `/folderName/page.tsx`: The App Router allows for folder structure to render individual pages that make up our web applications.
 - `/public`: Stores static assets such as images and stylesheets.
 - `/utils`: Houses utility functions and helper modules.
 
