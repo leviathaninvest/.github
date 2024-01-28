@@ -1,4 +1,4 @@
-# Leviathan Private Equity Investment Management
+# Leviathan Private Equity Investment Management Incorporated (Pty) Ltd
 
 ## Overview
 
