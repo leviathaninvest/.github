@@ -2,7 +2,7 @@
 
 ## Overview
 
-Welcome to the Leviathan Private Equity Investment Management Incorporated (Pty) Ltd (“LEVIATHAN”) Official Github. We are a Private Equity Investment Management Company focused on generating outsized returns for our Limited Partners.
+Welcome to the Leviathan Investment Management Incorporated (Pty) Ltd (“LEVIATHAN”) Official Github. We are a Private Equity Investment Management Company focused on generating outsized returns for our Limited Partners.
 
 ## Mission and Vision
 
